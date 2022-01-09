@@ -1,0 +1,1 @@
+.cell-parent{display:flex;align-items:center;justify-content:center;flex-flow:column}.cell{width:100px;height:100px;border-right:solid;border-bottom:solid;display:grid;place-items:center}.red{background-color:red}
